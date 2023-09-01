@@ -6,7 +6,7 @@ import './index.css'
 function App() {
   return (
     <LayoutBase>
-      <section>
+      <section className="projects">
         <h2>Component properties</h2>
         
         <ProjectCard
